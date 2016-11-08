@@ -1,0 +1,14 @@
+body{
+	color: #0000ff;
+	background-color: yellow;
+}
+
+.remove{
+	display: none;
+}
+
+body .li:hover {
+    visibility: visible;
+}
+
+
